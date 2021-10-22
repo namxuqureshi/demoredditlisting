@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.4.4)
+  - Kingfisher (7.1.1)
+  - PocketSVG (2.7.0)
+  - SwiftyGif (5.4.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - PocketSVG
+  - SwiftyGif
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Kingfisher
+    - PocketSVG
+    - SwiftyGif
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  Kingfisher: f738f9c4a3415823b8e2985d10aa2d6a9f37bc4d
+  PocketSVG: 5e0ff20c8a661586b2f2c295cd18b3e8f06de552
+  SwiftyGif: 5d4af95df24caf1c570dbbcb32a3b8a0763bc6d7
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 74a82cb0c84dd2a9f7d2d0f824749b157ec7e760
+
+COCOAPODS: 1.11.2
